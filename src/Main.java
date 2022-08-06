@@ -24,14 +24,15 @@ public class Main {
         for (int b = intArray.length-1; b >= 0 ; b--)
             System.out.print(intArray[b]+",");
         System.out.print("\r\n");
+
+    // Задача 4
         {
             int[] weight2 = new int[]{1, 2, 3};
             for (int i = 0; i < weight2.length; i++)
-              if weight2[i] % 2 !=0
+
+
 
 
         }
-    // Задача 4
-
     }
 }
