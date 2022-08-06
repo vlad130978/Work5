@@ -14,5 +14,24 @@ public class Main {
         for (int b = 0; b < intArray.length;)
             System.out.print(intArray[b++]+",");
         System.out.print("\r\n");
+    //Задача 3
+        for (int i = weight.length-1; i >= 0 ; i--)
+            System.out.print(weight[i] + ",");
+        System.out.print("\r\n");
+        for (int a = doubleArr.length-1; a >= 0 ; a--)
+            System.out.print(doubleArr[a]+",");
+        System.out.print("\r\n");
+        for (int b = intArray.length-1; b >= 0 ; b--)
+            System.out.print(intArray[b]+",");
+        System.out.print("\r\n");
+        {
+            int[] weight2 = new int[]{1, 2, 3};
+            for (int i = 0; i < weight2.length; i++)
+              if weight2[i] % 2 !=0
+
+
+        }
+    // Задача 4
+
     }
 }
