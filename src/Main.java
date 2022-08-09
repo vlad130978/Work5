@@ -26,13 +26,9 @@ public class Main {
         System.out.print("\r\n");
 
     // Задача 4
-        {
-            int[] weight2 = new int[]{1, 2, 3};
-            for (int i = 0; i < weight2.length; i++)
+        int[] weight3 = new int[]{1, 2, 3};
+        for (int x = 0; x < weight3.length; x++);
+        System.out.print(weight[0] + ",");
 
-
-
-
-        }
     }
 }
