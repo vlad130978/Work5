@@ -29,6 +29,5 @@ public class Main {
         int[] weight3 = new int[]{1, 2, 3};
         for (int x = 0; x < weight3.length; x++);
         System.out.print(weight[0] + ",");
-
     }
 }
